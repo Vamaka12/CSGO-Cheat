@@ -1,6 +1,6 @@
-## CSGO-Cheat
+# CSGO-Cheat
 
-#        I made this cheat only for Educational purposes
+# I made this cheat only for Educational purposes
 
 <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/Vamaka12/CSGO-Cheat/total?color=green&label=Downloads&style=plastic">
 
