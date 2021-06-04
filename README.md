@@ -12,4 +12,4 @@ Cheat was Tested on Python 3.8+
 
 To install modules for Cheat.py Use this command "pip install -r requirements.txt" or "py -m pip install -r requirements.txt"
 
-Download Cheat: https://github.com/Vamaka12/CSGO-Cheat/releases/tag/1.0.0
+Download Last Release: ![Download](https://github.com/Vamaka12/CSGO-Cheat/releases/download/1.0.0/Cheat.exe)
