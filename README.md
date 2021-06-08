@@ -6,11 +6,14 @@
 
 I made my own Cheat for Counter-Strike: Global Offensive on Python
 
-To run Cheat you need Python 3
-Cheat was Tested on Python 3.8+
-
+To run Cheat.py you need Python 3
+Cheat.py was Tested on Python 3.8+
 
 To install modules for Cheat.py Use this command "pip install -r requirements.txt" or "py -m pip install -r requirements.txt"
+
+
+
+for Cheat.exe You don't need to install or download anything else just run csgo join game and run Cheat.exe
 
 Download Last Release: [![Download](https://github.com/Vamaka12/CSGO-Cheat/blob/main/Resources/Download.png?raw=true)](https://github.com/Vamaka12/CSGO-Cheat/releases/download/1.0.0/Cheat.exe)
 
