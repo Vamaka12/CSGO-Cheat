@@ -1,6 +1,6 @@
 # CSGO-Cheat
 
-# Most of this cheat functions stoped working
+# Most of this cheat functions stopped working
 
 # I made this cheat only for Educational purposes
 
