@@ -80,7 +80,7 @@ def Cheat():
     aimfov = 120
     rgbT = [233, 233, 0]
     rgbCT = [0, 51, 255]
-    print(">> Читы актевированы")
+    print(">> Cheat Activated")
     while True:
         try:
 
