@@ -9,7 +9,7 @@
 I made my own Cheat for Counter-Strike: Global Offensive on Python
 
 To run Cheat.py you need Python 3
-Cheat.py was Tested on Python 3.8+
+Cheat.py was Tested on Python 3.8 and 3.9
 
 To install modules for Cheat.py Use this command "pip install -r requirements.txt" or "py -m pip install -r requirements.txt"
 
